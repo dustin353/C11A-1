@@ -1,0 +1,47 @@
+commit 8691c7a0869dba1c98c3d2cd322e587e8e5df81e
+Author: dustin353 <dustinchoat@mymail.mines.edu>
+Date:   Thu Feb 18 18:25:33 2021 -0700
+
+    Dustin, Changed what the cat said
+
+commit 384e8b214e079d90c67ca6eb66748ae70637b087
+Author: Davis Dickinson <dickinson@mymail.mines.edu>
+Date:   Thu Feb 18 18:20:21 2021 -0700
+
+    Changed mouth size to be times 20 instead of times 2
+
+commit 1de9df1aca33e41260c43361994cdef5e8ad9ae5
+Author: dustin353 <dustinchoat@mymail.mines.edu>
+Date:   Thu Feb 18 18:21:25 2021 -0700
+
+    Dustin, Changed the head dimension to 500
+
+commit 59668b22231699f79e601231fb4f97db773c9bab
+Author: Davis Dickinson <dickinson@mymail.mines.edu>
+Date:   Thu Feb 18 18:17:08 2021 -0700
+
+    Changed cat eye height from 20 to 30
+
+commit 2f6d63aa9a2f810e7222e1ab009b874db38abda3
+Author: dustin353 <dustinchoat@mymail.mines.edu>
+Date:   Thu Feb 18 18:17:33 2021 -0700
+
+    Dustin, Changed the color of g2
+
+commit 9df72a866e08c844408a0594402e3b9a7710711c
+Author: Davis Dickinson <dickinson@mymail.mines.edu>
+Date:   Thu Feb 18 18:08:52 2021 -0700
+
+    Changed cat head to blue from black
+
+commit e3f8827950f9f526c5077ff1e09b3373a3edad84
+Author: dustin353 <dustinchoat@mymail.mines.edu>
+Date:   Thu Feb 18 17:42:58 2021 -0700
+
+    Added README.txt
+
+commit 2049a72c32bc8fbef3f8f3482607a4525114796a
+Author: dustin353 <dustinchoat@mymail.mines.edu>
+Date:   Thu Feb 18 17:35:24 2021 -0700
+
+    Starting files
